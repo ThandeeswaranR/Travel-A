@@ -1,0 +1,119 @@
+.layout{
+    /* border: 1px solid; */
+    width: 1500px;
+    height: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+
+.r1{
+    /* border: 1px solid; */
+    width: 1500px;
+    height: 700px;
+    background-image: url(travel2.jpg);
+}
+.r2{
+    /* border: 1px solid; */
+    width: 1403px;
+    height: 300px;
+    margin: auto;
+    background-color: #dd9e23;
+    text-align: center;
+    padding-left: 100px;
+}
+.r3{
+    /* border: 1px solid; */
+    width: 1200px;
+    height: 300px;
+    margin: auto;
+    margin-top: -380px;
+
+}
+.r4{
+    /* border: 1px solid; */
+    width:366px ;
+    height: 300px;
+    float: left;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 20px;
+    color:  #808080 !important;;
+    line-height: 1.4;
+    background-color: white;
+    border-radius: 15px;
+    padding: 6px;
+    
+}
+.r4 p{
+    font-family:'Open Sans',sans-serif; 
+    font-size: 1rem;
+    padding: 0px;
+}
+.r5{
+    /* border: 1px solid; */
+    width: 366px;
+    height: 300px;
+    margin: auto;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 20px;
+    
+    color:  #808080 !important;;
+    line-height: 1.4;
+    background-color: white;
+    border-radius: 15px;
+    padding: 5px;    
+}
+.r5 p{
+   font-weight: 'open sans',sans-serif;
+   font-size: 1rem;
+}
+.r6{
+    /* border: 1px solid; */
+    width: 366px;
+    height: 300px;
+    float: right;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 20px;
+    color:  #808080 !important;;
+    line-height: 1.4;
+    margin-top: -302px;
+    background-color: white;
+    border-radius: 15px;    
+}
+.r6 p{
+    font-weight: 'open sans',sans-serif;
+    font-size: 1rem;  
+}
+h2{
+    color:#dd9e23 ;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+h3{
+    color: white;
+    text-align: center;
+    left: 230px;
+    padding: 5px;
+    
+}
+.black{
+    width: 1502px;
+    height: 270px;
+    /* border: 1px solid; */
+    margin: -2px 21px 0px -150px;
+    color: white;
+    background-color:#333333;
+}
+.text {
+    text-align: center;
+    padding: 50px;
+    /* font-style: normal; */
+}
+.up{
+    padding: 50px;
+    text-align: center;
+    /* font-style: normal; */
+}
+.hover{
+    color:orange;
+}
